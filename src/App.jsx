@@ -28,7 +28,7 @@ const links = [
   {
     icon: <FaSpotify />,
     title: 'Spotify',
-    link: 'https://open.spotify.com/user/2fgn9fnqq1dx2cqgbwhh32rb0?si=V1_t0QKwSsW4b1RoX4gwhA',
+    link: 'https://open.spotify.com/user/4fdakmnp6zzblm5qizzk6fg5m',
   },
   {
     icon: <FaPaypal />,
